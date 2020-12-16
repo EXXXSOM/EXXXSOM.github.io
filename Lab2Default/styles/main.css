@@ -31,7 +31,7 @@
   width: 100%;
   margin-top: 10px;
   height: 613px;
-  background-image: url('../../lab2/img/header.jpg');
+  background-image: url('../img/header.jpg');
 }
 .blockTextHeader {
   position: absolute;
